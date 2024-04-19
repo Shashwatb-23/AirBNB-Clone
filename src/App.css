@@ -1,0 +1,48 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.logo{
+  margin-left: 30px;
+  margin-top: 22px;
+  margin-bottom: 22.65px;
+  margin-right: 437.98px;
+  width: 82px;
+}
+
+.head{
+  box-shadow: 0px 2.98px 7.46px 0px #0000001A;
+  width: 100%;
+}
+
+.grid-pic{
+  display: flex;
+  width: 395.91px;
+  height: 232px;
+  margin-top: 96px;
+  margin-left: 77px;
+  gap: 0px;
+  border-radius: 8.95px 0px 0px 0px;
+  justify-content: center;
+}
+
+h2{
+  width: 347px;
+  height: 40px;
+  margin-left: 36px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 39.6px;
+  text-align: left;
+}
+
+p{
+  width: 320px;
+  height: 56px;
+  margin-top: 16px;
+  margin-left: 36px;
+  gap: 0px;
+  opacity: 0px;
+}
