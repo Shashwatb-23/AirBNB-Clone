@@ -1,6 +1,6 @@
 import Header from "./component/Header"
 import Main from "./component/Main"
-import Card from "./component/card"
+import Card from "./component/Card.jsx"
 import data from "./component/data"
 import './App.css'
 
